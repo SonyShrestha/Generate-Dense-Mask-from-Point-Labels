@@ -1,4 +1,4 @@
-# Project Title
+# Generate Dense Segmentation Mask from Sparse Point Lables
 This repository contains script for execution of task carried out for generating dense mask from sparse point labels. Different variants of SAM were compared. Preprocessing and postprocessing were done to check if they help to improve performance of model.
 
 ## Folder Structure
